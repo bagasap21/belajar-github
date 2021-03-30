@@ -2,3 +2,4 @@
 - javascript
 - framework
 - css
+- mysql
