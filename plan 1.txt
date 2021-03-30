@@ -3,3 +3,4 @@
 - framework
 - css
 - javaneatbeans
+- mysql
